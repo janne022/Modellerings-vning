@@ -6,11 +6,7 @@ namespace Modellering
     {
         static void Main(string[] args)
         {
-            Game kit1 = new Game() {gun = "Revolver", character = "Speed Warrior", healthKits = 2};
-            Game kit2 = new Game() {gun = "Sniper", character = "American Sniper", healthKits = 0};
-            
-
-            Game[] gameKits = {kit1, kit2};
+            Game[] gameKits = {new Game {gun = "Revolver", character = "Speed Warrior", healthKits = 2}, new Game {gun = "Sniper", character = "American Sniper", healthKits = 0}};
             System.Console.WriteLine("Choose a kit: ");
             for (int i = 0; i < gameKits.Length; i++)
             {
