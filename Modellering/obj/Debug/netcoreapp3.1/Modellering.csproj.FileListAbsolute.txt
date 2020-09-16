@@ -1,0 +1,13 @@
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\bin\Debug\netcoreapp3.1\Modellering.exe
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\bin\Debug\netcoreapp3.1\Modellering.deps.json
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\bin\Debug\netcoreapp3.1\Modellering.runtimeconfig.json
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\bin\Debug\netcoreapp3.1\Modellering.runtimeconfig.dev.json
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\bin\Debug\netcoreapp3.1\Modellering.dll
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\bin\Debug\netcoreapp3.1\Modellering.pdb
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\obj\Debug\netcoreapp3.1\Modellering.csprojAssemblyReference.cache
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\obj\Debug\netcoreapp3.1\Modellering.AssemblyInfoInputs.cache
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\obj\Debug\netcoreapp3.1\Modellering.AssemblyInfo.cs
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\obj\Debug\netcoreapp3.1\Modellering.csproj.CoreCompileInputs.cache
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\obj\Debug\netcoreapp3.1\Modellering.dll
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\obj\Debug\netcoreapp3.1\Modellering.pdb
+C:\Users\johannes.flodin\Documents\Visual Studio Code\Modelleringsövning\Modellering\obj\Debug\netcoreapp3.1\Modellering.genruntimeconfig.cache
